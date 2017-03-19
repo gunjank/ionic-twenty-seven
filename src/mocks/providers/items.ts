@@ -17,39 +17,24 @@ export class Items {
   constructor(public http: Http) {
     let items = [
       {
-         "name": "Burt Bear",
+         "name": "A 4 Paper",
          "profilePic": "assets/img/speakers/bear.jpg",
-         "about": "Burt is a Bear."
+         "about": "Rs  170.00  Century "
        },
        {
-         "name": "Charlie Cheetah",
+         "name": "Fax Roll",
          "profilePic": "assets/img/speakers/cheetah.jpg",
-         "about": "Charlie is a Cheetah."
+         "about": "Rs  130.00 Kores "
        },
        {
-         "name": "Donald Duck",
+         "name": "CD Blank",
          "profilePic": "assets/img/speakers/duck.jpg",
-         "about": "Donald is a Duck."
+         "about": "Rs 10.00 Sony"
        },
        {
-         "name": "Eva Eagle",
-         "profilePic": "assets/img/speakers/eagle.jpg",
-         "about": "Eva is an Eagle."
-       },
-       {
-         "name": "Ellie Elephant",
-         "profilePic": "assets/img/speakers/elephant.jpg",
-         "about": "Ellie is an Elephant."
-       },
-       {
-         "name": "Molly Mouse",
-         "profilePic": "assets/img/speakers/mouse.jpg",
-         "about": "Molly is a Mouse."
-       },
-       {
-         "name": "Paul Puppy",
-         "profilePic": "assets/img/speakers/puppy.jpg",
-         "about": "Paul is a Puppy."
+         "name": "Computer Paper - 15x12x2",
+         "profilePic": "assets/img/speakers/lion.jpg",
+         "about": "Rs 650.00 Kores"
        }
      ];
 
